@@ -17,11 +17,10 @@ In this project, I was tasked to make a few changes to the PlanMyTrip app to tak
 ## Results
 
 - Using the random city generator, a vacation itinerary of the following cities were recommended:
-
-1.) Vacation city start: Vidalia
-2.) Vacation Stop 1: Dillon
-3.) Vacation Stop 2: Wilmington
-4.) Vacation city end: Havelock
+  1. Vacation city start: Vidalia
+  2. Vacation Stop 1: Dillon
+  3. Vacation Stop 2: Wilmington
+  4. Vacation city end: Havelock
 
 - Here is a link to the travel itinerary: https://github.com/Neekoh1310/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png
 - Here is a link to the travel itinerary with marker: https://github.com/Neekoh1310/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png
